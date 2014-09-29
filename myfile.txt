@@ -1,5 +1,9 @@
 Hey man this is soooooooooooooo00ooooo000oooo modified!!! :O
+<<<<<<< HEAD
 
 Yea~~!!!
 
 I agree That!!!
+=======
+cool, just added smth to your file without using any interface
+>>>>>>> f6bef38d8816a1f50f6dbd909ee4f8f6052c58fc
